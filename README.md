@@ -1,5 +1,5 @@
 # My Kali Linux Cheat Sheet
-### By Yordor Giana Mary | NetworkWalks Academy - Cybersecurity Intern
+### By Yordor Diana Mary | NetworkWalks Academy - Cybersecurity Intern
 
 These are the commands I used in Week 2 for Footprinting and Scanning. All tested by me in Kali Linux.
 
